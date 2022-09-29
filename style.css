@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+    padding: 20px;
+    border-spacing: 10px;
+}
+
+input{
+    background-color: gray;
+    border: 10px solid white;
+    font-size: 34px;
+    height: 133px;
+    width: 523px;
+    border-radius: 15px;
+}
+
+button{
+    border-radius: 22px;
+    font-size: 34px;
+    background: darkturquoise;
+    width: 129px;
+    height: 104px;
+    margin: 8p
+}
+*{
+    background-color: black;
+}
+h1{
+    color: goldenrod;
+    font-size: 93px;
+    font-family: 'Courier New', Courier, monospace;
+}
